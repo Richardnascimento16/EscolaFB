@@ -65,7 +65,8 @@ margin-left: -500px;
 
 }
 h4{
-    color: rgb(0, 0, 0)
+    color: rgb(0, 0, 0);
+    text-align: end;
 }
 h1{
 color: rgb(0, 0, 0)
